@@ -34,6 +34,7 @@ end
 
 group :test do
   gem 'minitest'
+  gem 'capybara'
 end
 
 # Use ActiveModel has_secure_password
